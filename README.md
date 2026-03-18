@@ -3,7 +3,7 @@
 
 Data Scientist with a strong foundation in Power BI and data analytics, specializing in Python-based data science, machine learning, deep learning, and NLP. Experienced in building end-to-end data solutions, developing APIs with FastAPI and Streamlit, and working with modern AI frameworks including Generative AI, agentic systems, and MLOps-oriented workflows.
 
-Email Me 👉 ✉️ **ashokreddyc16@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **cashokreddy902@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
 ## 🌐 Socials:
